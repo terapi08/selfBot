@@ -1,4 +1,4 @@
-**토큰 구하는 법 ( Ctrl + Shift + I )**
+**토큰 구하는 방법 ( Ctrl + Shift + I )**
 ```javascript
 (webpackChunkdiscord_app.push([
     [''], {},
@@ -10,7 +10,7 @@
 ```
 
 # Installation
-**셀트봇을 실행하기 위해 모듈을 다운받아주세요.**
+**셀프봇을 실행하기 위해 모듈을 다운받아주세요.**
 ```
 npm install -g typescript
 npm install -g ts-node
